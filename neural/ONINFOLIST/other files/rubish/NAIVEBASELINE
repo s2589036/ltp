@@ -1,0 +1,4 @@
+import pickle
+infolist = pickle.load(open('infolist.pickle','rb'))
+
+#there are 7 different POS-tags: 
